@@ -580,19 +580,19 @@
         <div class="swiper-wrapper">
         <!--First Slide-->
         <div class="swiper-slide">
-          <img src="images/picture3_small.jpg" alt="1" class="img-responsive" />
+          <img src="images/Picture3_small.jpg" alt="1" class="img-responsive" />
         </div>
         <!--Second Slide-->
         <div class="swiper-slide">
-          <img src="images/picture33_small.jpg" alt="2" class="img-responsive" />
+          <img src="images/Picture33_small.jpg" alt="2" class="img-responsive" />
         </div>
         <!--Third Slide-->
         <div class="swiper-slide">
-          <img src="images/picture8_small.jpg" alt="3" class="img-responsive" />
+          <img src="images/Picture8_small.jpg" alt="3" class="img-responsive" />
         </div>
         <!--Fourth Slide-->
         <div class="swiper-slide">
-          <img src="images/picture11_small.jpg" alt="4"  class="img-responsive" />
+          <img src="images/Picture11_small.jpg" alt="4"  class="img-responsive" />
         </div>
         </div><!-- end slider wrapper -->
     </div><!-- end swiper container -->
