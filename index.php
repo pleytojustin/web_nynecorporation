@@ -423,7 +423,48 @@
   </div><!-- end grid -->
 </div><!-- end logos wrapper -->
 
+<div class="backgr hidden-xs">
+ <div id="myCarousel2" class="carousel slide">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel2" data-slide-to="1"></li>
+        <li data-target="#myCarousel2" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="item active">
+           <div class="container">
+            <div class="carousel-caption">
+              <img class="img-responsive" src="images/face1.jpg" alt="thumbnail" />
+              <h2>Example Heading One</h2>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+           <div class="container">
+            <div class="carousel-caption">
+            <img class="img-responsive" src="images/face2.jpg" alt="thumbnail" />
+              <h2>Another example headline.</h2>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="container">
+            <div class="carousel-caption">
+          <img class="img-responsive" src="images/face3.jpg" alt="thumbnail" />
+              <h2>One more for good measure.</h2>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="left carousel-control" href="#myCarousel2" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+      <a class="right carousel-control" href="#myCarousel2" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+    </div><!-- /.carousel -->
 
+  </div>
 
 <!-- ========================= RECENT EXHIBITIONS ========================== -->
 
@@ -511,48 +552,7 @@
 </div><!-- end posts -->
 <!-- ========================== PARRALAX ============================= -->
 
-<div class="backgr hidden-xs">
- <div id="myCarousel2" class="carousel slide">
-      <!-- Indicators -->
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel2" data-slide-to="1"></li>
-        <li data-target="#myCarousel2" data-slide-to="2"></li>
-      </ol>
-      <div class="carousel-inner">
-        <div class="item active">
-           <div class="container">
-            <div class="carousel-caption">
-              <img class="img-responsive" src="images/face1.jpg" alt="thumbnail" />
-              <h2>Example Heading One</h2>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-           <div class="container">
-            <div class="carousel-caption">
-            <img class="img-responsive" src="images/face2.jpg" alt="thumbnail" />
-              <h2>Another example headline.</h2>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <div class="container">
-            <div class="carousel-caption">
-          <img class="img-responsive" src="images/face3.jpg" alt="thumbnail" />
-              <h2>One more for good measure.</h2>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <a class="left carousel-control" href="#myCarousel2" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-      <a class="right carousel-control" href="#myCarousel2" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
-    </div><!-- /.carousel -->
 
-  </div>
 
 <!-- ============================= CONTACT ============================= -->
 
