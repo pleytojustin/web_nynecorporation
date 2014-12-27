@@ -588,6 +588,7 @@
 <div class="swiper">
     <div class="swiper-container">
         <div class="swiper-wrapper">
+
         <!--First Slide-->
         <div class="swiper-slide">
           <img src="images/Picture3_small.jpg" alt="1" class="img-responsive" />
