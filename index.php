@@ -281,62 +281,62 @@
 
                    <!-- item -->
         <div class="gal-item mix one">
-           <img class="img-responsive" src="images/picture11_small.jpg" alt="#">
-           <div class="select"><a href="images/picture11.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture11_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture11.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix one">
-           <img class="img-responsive" src="images/picture12_small.jpg" alt="#">
-           <div class="select"><a href="images/picture12.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture12_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture12.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix one">
-           <img class="img-responsive" src="images/picture13_small.jpg" alt="#">
-           <div class="select"><a href="images/picture13.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture13_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture13.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix two">
-           <img class="img-responsive" src="images/picture14_small.jpg" alt="#">
-           <div class="select"><a href="images/picture14.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture14_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture14.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix two">
-           <img class="img-responsive" src="images/picture15_small.jpg" alt="#">
-           <div class="select"><a href="images/picture15.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture15_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture15.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix two">
-           <img class="img-responsive" src="images/picture16_small.jpg" alt="#">
-           <div class="select"><a href="images/picture16.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture16_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture16.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix two">
-           <img class="img-responsive" src="images/picture17_small.jpg" alt="#">
-           <div class="select"><a href="images/picture17.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture17_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture17.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix two">
-           <img class="img-responsive" src="images/picture18_small.jpg" alt="#">
-           <div class="select"><a href="images/picture18.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture18_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture18.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix two">
-           <img class="img-responsive" src="images/picture19_small.jpg" alt="#">
-           <div class="select"><a href="images/picture19.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture19_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture19.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix two">
-           <img class="img-responsive" src="images/picture20_small.jpg" alt="#">
-           <div class="select"><a href="images/picture20.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture20_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture20.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
 
@@ -344,80 +344,80 @@
 
           <!-- item -->
      <div class="gal-item mix three">
-           <img class="img-responsive" src="images/picture21_small.jpg" alt="#">
-           <div class="select"><a href="images/picture21.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture21_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture21.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
        <!-- item -->
         <div class="gal-item mix three">
-           <img class="img-responsive" src="images/picture22_small.jpg" alt="#">
-           <div class="select"><a href="images/picture22.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture22_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture22.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
              <!-- item -->
         <div class="gal-item mix studio">
-           <img class="img-responsive" src="images/picture23_small.jpg" alt="#">
-           <div class="select"><a href="images/picture23.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture23_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture23.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                    <!-- item -->
         <div class="gal-item mix studio">
-           <img class="img-responsive" src="images/picture24_small.jpg" alt="#">
-           <div class="select"><a href="images/picture24.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture24_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture24.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix commercial">
-           <img class="img-responsive" src="images/picture25_small.jpg" alt="#">
-           <div class="select"><a href="images/picture25.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture25_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture25.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix commercial">
-           <img class="img-responsive" src="images/picture26_small.jpg" alt="#">
-           <div class="select"><a href="images/picture26.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture26_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture26.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix office">
-           <img class="img-responsive" src="images/picture27_small.jpg" alt="#">
-           <div class="select"><a href="images/picture27.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture27_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture27.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix office">
-           <img class="img-responsive" src="images/picture28_small.jpg" alt="#">
-           <div class="select"><a href="images/picture28.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture28_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture28.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix office">
-           <img class="img-responsive" src="images/picture29_small.jpg" alt="#">
-           <div class="select"><a href="images/picture29.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture29_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture29.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix office">
-           <img class="img-responsive" src="images/picture30_small.jpg" alt="#">
-           <div class="select"><a href="images/picture30.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture30_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture30.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix residential">
-           <img class="img-responsive" src="images/picture31_small.jpg" alt="#">
-           <div class="select"><a href="images/picture31.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture31_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture31.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix residential">
-           <img class="img-responsive" src="images/picture32_small.jpg" alt="#">
-           <div class="select"><a href="images/picture32.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture32_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture32.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
         <div class="gal-item mix residential">
-           <img class="img-responsive" src="images/picture33_small.jpg" alt="#">
-           <div class="select"><a href="images/picture33.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/Picture33_small.jpg" alt="#">
+           <div class="select"><a href="images/Picture33.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
   </div><!-- end grid -->
