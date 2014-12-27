@@ -129,7 +129,7 @@ header {
   header h1#logo {
     width: 300px;
     height: 111px;
-    background: url("../images/NyneLogoFINALTRANSPARENT.png") no-repeat;
+    background: url("../images/trans.png") no-repeat;
     background-size: contain;
     margin-top: 15px; }
     header h1#logo.sticky {
