@@ -223,8 +223,8 @@
 
     <!-- item -->
       <div class="gal-item mix one">
-           <img class="img-responsive" src="images/picture1_small.jpg" alt="#">
-           <div class="select"><a href="images/picture1.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="picture1_small.jpg" alt="#">
+           <div class="select"><a href="picture1.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
 
     <!-- item -->
