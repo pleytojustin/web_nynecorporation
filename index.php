@@ -18,7 +18,7 @@
 
 <style type="text/css" media="screen">
   .zoom {
-    zoom: 3;
+    zoom: 1;
 }
 </style>
 
