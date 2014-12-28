@@ -421,8 +421,6 @@
   </div><!-- end grid -->
 </div><!-- end logos wrapper -->
 
-
-
 <!-- ========================= RECENT EXHIBITIONS ========================== -->
 
 <div  id="posts">
