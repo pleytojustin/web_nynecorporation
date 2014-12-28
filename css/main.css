@@ -124,7 +124,7 @@ header {
   width: 100%; }
   header.sticky {
     position: fixed;
-    background-color: rgba(110, 110, 110, 0.55);
+    background-color: rgba(0, 0, 0, 0.53);
     height: 60px; }
   header h1#logo {
     width: 300px;
