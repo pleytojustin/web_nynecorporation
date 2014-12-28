@@ -569,10 +569,7 @@
       </form>
     </div><!-- end 8 -->
   </div><!-- end row -->
-<<<<<<< HEAD
 
-=======
->>>>>>> 3a4bc8e64ab826d25f5810141124d37d22bce6f7
 </div><!-- end container -->
 <div class="swiper">
     <div class="swiper-container">
