@@ -610,7 +610,37 @@
 
 
 <!-- ============================= FOOTER ============================== -->
-
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12">
+        <h3>Sign up for the newsletter</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-7 col-md-7 col-sm-7">
+        <form class="form-inline">
+          <div class="email form-group col-lg-8 col-md-8 col-sm-8">
+            <input class="form-control" style="width:100%;" placeholder="Enter email">
+          </div>
+          <div class="form-group col-lg-4 col-md-4 col-sm-4">
+            <button type="submit" style="width:100%;" class="submit btn btn-db">SIGN UP</button>
+          </div>
+        </form>
+      </div>
+      <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12 text-right">
+        <p class="sn-links">
+          <a href="#" title="#"><i class="fa fa-facebook-square"></i></a>
+              <a href="#" title="#"><i class="fa fa-twitter-square"></i></a>
+              <a href="#" title="#"><i class="fa fa-linkedin-square"></i></a>
+              <a href="#" title="#"><i class="fa fa-youtube-square"></i></a>
+              <a href="#" title="#"><i class="fa fa-flickr"></i></a>
+              <a href="#" title="#"><i class="fa fa-instagram"></i></a>
+           </p>
+      </div>
+    </div><!-- end row -->
+  </div><!-- end container -->
+</footer>
 </div>
 <!-- ========================== SWIPER GALLERY ============================= -->
 
