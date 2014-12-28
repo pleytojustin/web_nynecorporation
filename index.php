@@ -420,6 +420,7 @@
 
   </div><!-- end grid -->
 </div><!-- end logos wrapper -->
+
 <!-- ========================= RECENT EXHIBITIONS ========================== -->
 
 <div  id="posts">
@@ -598,6 +599,7 @@
 </div>
 
 </div><!-- end contact -->
+
 <!-- ============================= FOOTER ============================== -->
 
 </div>
@@ -605,6 +607,7 @@
 
 
 </div><!-- end swiper -->
+
 <script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/hoverIntent.js"></script>
