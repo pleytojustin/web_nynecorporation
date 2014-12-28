@@ -16,7 +16,11 @@
 <link href="fonts/font1.css" rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Lato|Crete+Round' rel='stylesheet' type='text/css'>
 
-
+<style type="text/css" media="screen">
+  .zoom {
+    zoom: 3;
+}
+</style>
 
 <link rel="stylesheet" href="css/font-awesome.min.css">
 <link href="css/lightbox.css" rel="stylesheet">
@@ -30,6 +34,7 @@
       <script src="js/respond.min.js"></script>
     <![endif]-->
 </head>
+<div class="zoom">
 <body data-spy="scroll" data-target="#navigation">
 <div id="mobile-slider" class="visible-xs">
   <p><img class="mobile-logo" src="images/NyneLogoFINALTRANSPARENT.png" alt="logo-wht-mobile"  /><span class="nav-icon"><i class="fa fa-bars"></i></span></p>
@@ -627,5 +632,7 @@
 
 <script src="js/jquery.scrollTo.js"></script>
 <script src="js/jquery.nav.js"></script>
+
+</div>
 </body>
 </html>
