@@ -613,11 +613,9 @@
 <footer>
   <div class="container">
     <div class="row">
-         <p>Copywrite by: NyneCorporation</p>
-      <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12 text-right">
-        <p class="sn-links">
-          <a href="#" title="#"><i class="fa fa-facebook-square"></i></a>
-         </p>
+    <div class="row">
+      <div class="col-lg-7 col-md-7 col-sm-7">
+        Copyright &copy; 2013 My Client.
       </div>
     </div><!-- end row -->
   </div><!-- end container -->
