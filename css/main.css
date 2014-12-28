@@ -20,7 +20,7 @@
 /* MIXINS */
 /* ========================================== GENERAL ====================================  */
 body {
-  color: rgba(0, 0, 0, 0.43);
+  color: #333;
   font-family: 'Lato', sans-serif;
   font-style: normal;
   font-weight: 400; }
@@ -124,7 +124,7 @@ header {
   width: 100%; }
   header.sticky {
     position: fixed;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(110, 110, 110, 0.55);
     height: 60px; }
   header h1#logo {
     width: 300px;
