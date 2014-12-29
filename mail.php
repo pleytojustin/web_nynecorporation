@@ -5,7 +5,7 @@ $subject = 'This is an e-mail.';
 $body = 'This is a test e-mail\n\nHope you got it.';
 $headers = 'From: someone@phpacademy.org';
 
-if (mail($to, $subject, $body)) {
+if (mail($to, $subject, $body, $headers)) {
 	echo 'Email has been sent' . $to;
 
 } else {
