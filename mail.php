@@ -1,15 +1,9 @@
 <?php
-$to = 'justin.louize.pleyto@gmail.com';
-$subject = 'This is an e-mail.';
+$open = fopen("file.txt", 'w+');
 
-$body = 'This is a test e-mail\n\nHope you got it.';
-$headers = 'From: someone@phpacademy.org';
-
-if (mail($to, $subject, $body, $headers)) {
-	echo 'Email has been sent' . $to;
-
+if ($open) {
+	echo "opened";
 } else {
-	echo 'there was an error sending the email';
+	echo "closed";
 }
-
 ?>
