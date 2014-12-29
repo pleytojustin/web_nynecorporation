@@ -52,6 +52,7 @@ a {
   a:hover {
     text-decoration: none; }
 
+
 .btn {
   background-color: #61c1b9;
   border: none;
@@ -529,7 +530,7 @@ footer {
       margin: 0 5px; } }
 @media screen and (min-width: 768px) and (max-width: 1024px) {
   #myCarousel {
-    background: url(../images/mainPic4.JPG) no-repeat fixed;
+    background: url(../images/mainPic4.jpg) no-repeat fixed;
     background-size: auto; }
 
   .backgr {

@@ -629,7 +629,6 @@
 </div>
 <!-- ========================== SWIPER GALLERY ============================= -->
 
-
 </div><!-- end swiper -->
 
 <script src="js/jquery.js"></script>
