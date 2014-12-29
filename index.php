@@ -569,12 +569,12 @@
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Excepteur sint occaecat cupidatat</p>
     </div>
   </div><!-- end row -->
-  <div class="row">
+  <div class="row" >
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <form>
-        <p><input class="form-control" placeholder="Enter name"></p>
-        <p><input class="form-control" placeholder="Enter email"></p>
-        <p><textarea class="form-control" rows="6"></textarea></p>
+      <form action="mail.php" method="post">
+        <p><input class="form-control" name= "name" placeholder="Enter name"></p>
+        <p><input class="form-control" name="email" placeholder="Enter email"></p>
+        <p><textarea class="form-control" name="content" rows="6"></textarea></p>
         <p><button type="submit" class="submit btn btn-db">SEND NOW</button></p>
       </form>
     </div><!-- end 8 -->

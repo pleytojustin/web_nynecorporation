@@ -1,9 +1,20 @@
 <?php
+
+echo $_POST['name'];
+echo $_POST['email'];
+echo $_POST['content'];
+
 $open = fopen("file.txt", 'w+');
 
 if ($open) {
-	echo "opened";
+	$content = "testing my tutorial";
+	if (fwrite($open, $content)) {
+		echo "good";
+	} else {
+		echo "cant write";
+	}
 } else {
-	echo "closed";
+	echo "cant open";
 }
+
 ?>
