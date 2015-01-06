@@ -80,7 +80,7 @@
         <div class="item active">
            <div class="container">
             <div class="carousel-caption">
-              <h2>Located at Filinvest Alabang, Nyne Corporation specialize in interior fit out of residential, commercial and office spaces.</h2>
+              <h1>Located at Filinvest Alabang, Nyne Corporation specialize in interior fit out of residential, commercial and office spaces.</h1>
               <p></p>
             </div>
           </div>
