@@ -199,7 +199,7 @@
   <p>We also have done office space in Entrata Filinvest Alabang.</p>
 
 
-
+</div>
 
   </div><!-- end 12 -->
 </div><!-- end row -->
@@ -214,7 +214,7 @@
       <li class="filter btn" data-filter="three">Three Bedroom Units</li>
       <li class="filter btn" data-filter="commercial">Commercial Space</li>
       <li class="filter btn" data-filter="office">Office</li>
-       <li class="filter btn" data-filter="residential">Residential</li>
+      <li class="filter btn" data-filter="residential">Residential</li>
     </ul>
 
   <div id="Grid">
