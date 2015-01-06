@@ -120,8 +120,9 @@
 
   </div><!-- end 12 -->
 </div><!-- end row -->
-<div style="padding-left: 100px">
+
 <div class="row">
+<div style="padding-left: 100px">
   <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
         <img class="img-responsive" src="images/t1.jpg" alt="paul" />
