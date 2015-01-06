@@ -82,22 +82,21 @@
             <div class="carousel-caption">
               <h1>Located at Filinvest Alabang</h1>
               <p>Nyne Corporation specialize in interior fit out of residential, commercial and office spaces.</p>
-              <p><a class="btn btn-large btn-primary" href="#">See the video</a></p>
             </div>
           </div>
         </div>
         <div class="item">
            <div class="container">
             <div class="carousel-caption">
-              <h1>Another example headline.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <h1>Being in the construction industry since the mid-nineties</h1>
+              <p>Nyne is committed to high quality of work with the use of skilled labourers and carefully sourced materials .</p>
             </div>
           </div>
         </div>
         <div class="item">
           <div class="container">
             <div class="carousel-caption">
-              <h1>One more for good measure.</h1>
+              <h1>Nyne upholds client’s brief and will complete projects in time and within budget.</h1>
               <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
             </div>
           </div>
