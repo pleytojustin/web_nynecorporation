@@ -130,7 +130,7 @@
     <h2>Chris</h2>
     <p>
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-
+</div>
   </div>
 
   <div class="col-lg-2 col-md-2 col-sm-2">
@@ -141,7 +141,7 @@
     <h2>Chris</h2>
     <p>
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-
+</div>
   <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
         <img class="img-responsive" src="images/t1.jpg" alt="paul" />
@@ -150,7 +150,7 @@
     <h2>Chris</h2>
     <p>
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-
+</div>
   <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
         <img class="img-responsive" src="images/t1.jpg" alt="paul" />
@@ -159,7 +159,7 @@
     <h2>Chris</h2>
     <p>
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-
+</div>
   <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
         <img class="img-responsive" src="images/t1.jpg" alt="paul" />
@@ -168,7 +168,7 @@
     <h2>Chris</h2>
     <p>
     HIII Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-
+</div>
 
 </div><!-- end container -->
 </div><!-- end about wrapp -->
