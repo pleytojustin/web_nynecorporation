@@ -122,54 +122,86 @@
 </div><!-- end row -->
 
 <div class="row">
-  <div class="col-lg-2 col-md-2 col-sm-2">
+  <div class="col-lg-3 col-md-3 col-sm-3">
     <div class="team">
         <img class="img-responsive" src="images/t1.jpg" alt="paul" />
-
+          <div class="roll">
+            <div class="sn-links">
+              <a href="#" title="#"><i class="fa fa-facebook-square"></i></a>
+              <a href="#" title="#"><i class="fa fa-twitter-square"></i></a>
+              <a href="#" title="#"><i class="fa fa-linkedin-square"></i></a><br>
+              <a href="#" title="#"><i class="fa fa-youtube-square"></i></a>
+              <a href="#" title="#"><i class="fa fa-flickr"></i></a>
+              <a href="#" title="#"><i class="fa fa-instagram"></i></a>
+            </div><!-- end sn links -->
+          </div><!-- end roll -->
     </div>
     <h2>Chris</h2>
     <p>
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-</div>
+
   </div>
 
-  <div class="col-lg-2 col-md-2 col-sm-2">
+   <div class="col-lg-3 col-md-3 col-sm-3">
     <div class="team">
-        <img class="img-responsive" src="images/t1.jpg" alt="paul" />
-
+        <img class="img-responsive" src="images/t2.jpg" alt="paul" />
+           <div class="roll">
+            <div class="sn-links">
+              <a href="#" title="#"><i class="fa fa-facebook-square"></i></a>
+              <a href="#" title="#"><i class="fa fa-twitter-square"></i></a>
+              <a href="#" title="#"><i class="fa fa-linkedin-square"></i></a><br>
+              <a href="#" title="#"><i class="fa fa-youtube-square"></i></a>
+              <a href="#" title="#"><i class="fa fa-flickr"></i></a>
+              <a href="#" title="#"><i class="fa fa-instagram"></i></a>
+            </div><!-- end sn links -->
+          </div><!-- end roll -->
     </div>
-    <h2>Chris</h2>
+    <h2>Joanne</h2>
     <p>
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-</div>
-  <div class="col-lg-2 col-md-2 col-sm-2">
-    <div class="team">
-        <img class="img-responsive" src="images/t1.jpg" alt="paul" />
+  </div>
 
-    </div>
-    <h2>Chris</h2>
+   <div class="col-lg-3 col-md-3 col-sm-3">
+    <div class="team">
+        <img class="img-responsive" src="images/t3.jpg" alt="paul" />
+           <div class="roll">
+            <div class="sn-links">
+              <a href="#" title="#"><i class="fa fa-facebook-square"></i></a>
+              <a href="#" title="#"><i class="fa fa-twitter-square"></i></a>
+              <a href="#" title="#"><i class="fa fa-linkedin-square"></i></a><br>
+              <a href="#" title="#"><i class="fa fa-youtube-square"></i></a>
+              <a href="#" title="#"><i class="fa fa-flickr"></i></a>
+              <a href="#" title="#"><i class="fa fa-instagram"></i></a>
+            </div><!-- end sn links -->
+          </div><!-- end roll -->
+      </div>
+    <h2>Rob</h2>
     <p>
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-</div>
-  <div class="col-lg-2 col-md-2 col-sm-2">
-    <div class="team">
-        <img class="img-responsive" src="images/t1.jpg" alt="paul" />
+  </div>
 
-    </div>
-    <h2>Chris</h2>
+   <div class="col-lg-3 col-md-3 col-sm-3">
+    <div class="team">
+        <img class="img-responsive" src="images/t4.jpg" alt="paul" />
+           <div class="roll">
+            <div class="sn-links">
+              <a href="#" title="#"><i class="fa fa-facebook-square"></i></a>
+              <a href="#" title="#"><i class="fa fa-twitter-square"></i></a>
+              <a href="#" title="#"><i class="fa fa-linkedin-square"></i></a><br>
+              <a href="#" title="#"><i class="fa fa-youtube-square"></i></a>
+              <a href="#" title="#"><i class="fa fa-flickr"></i></a>
+              <a href="#" title="#"><i class="fa fa-instagram"></i></a>
+            </div><!-- end sn links -->
+          </div><!-- end roll -->
+      </div>
+    <h2>Noon</h2>
     <p>
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-</div>
-  <div class="col-lg-2 col-md-2 col-sm-2">
-    <div class="team">
-        <img class="img-responsive" src="images/t1.jpg" alt="paul" />
+  </div>
 
-    </div>
-    <h2>Chris</h2>
-    <p>
-    HIII Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-</div>
-</div>
+
+</div><!-- end row -->
+
 </div><!-- end container -->
 </div><!-- end about wrapp -->
 <!-- ============================= GALLERY ============================= -->
