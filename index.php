@@ -169,7 +169,7 @@
     <p>
     HIII Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
 </div>
-
+</div>
 </div><!-- end container -->
 </div><!-- end about wrapp -->
 <!-- ============================= GALLERY ============================= -->
