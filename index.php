@@ -199,12 +199,12 @@
   <p>We also have done office space in Entrata Filinvest Alabang.</p>
 
 
-</div>
+
 
   </div><!-- end 12 -->
 </div><!-- end row -->
 </div><!-- end container -->
-  <h1 class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 text-center" >Gallery</h1>
+  <h1 class="text-center">Gallery</h1>
 <div id="logos-wrapper">
     <ul class="portfolioFilter">
       <li class="filter btn" data-filter="all">Show All</li>
@@ -214,7 +214,7 @@
       <li class="filter btn" data-filter="three">Three Bedroom Units</li>
       <li class="filter btn" data-filter="commercial">Commercial Space</li>
       <li class="filter btn" data-filter="office">Office</li>
-      <li class="filter btn" data-filter="residential">Residential</li>
+       <li class="filter btn" data-filter="residential">Residential</li>
     </ul>
 
   <div id="Grid">
@@ -426,6 +426,7 @@
   <div class="row">
     <div class="col-lg-10 col-lg-offset-1 text-center">
       <h1>Services</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
     </div><!-- end 12 -->
   </div><!-- end row -->
 
@@ -436,8 +437,9 @@
       <img class="img-responsive" src="images/b1sm.jpg" alt="#">
       <div class="select"><a href="images/b1.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
     </div>
-    <h2>General Contractor</h2>
-    <p>Works fluidly with various engineers and construction suppliers in overseeing a project.</p>
+    <h2>Post Title</h2>
+    <p class="meta">6th December 2013</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
   </div>
 
 <!-- item -->
@@ -446,8 +448,9 @@
       <img class="img-responsive" src="images/b2sm.jpg" alt="#">
       <div class="select"><a href="images/b2.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
     </div>
-    <h2>Project Management  </h2>
-    <p>We secure permits, prepare accurate costing , detailed construction plan and efficient logistical plans to ensure that all the requirements for a certain project is met from start to finish.</p>
+    <h2>Post Title</h2>
+    <p class="meta">6th December 2013</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
   </div>
 
 <!-- item -->
@@ -456,8 +459,9 @@
       <img class="img-responsive" src="images/b3sm.jpg" alt="#">
       <div class="select"><a href="images/b3.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
     </div>
-    <h2>Interior Design</h2>
-    <p>Nyne has a pool of architects and interior designer who forms creative ideas based on a comprehensive client brief. We are constantly evolving to meet standards in design and construction.</p>
+    <h2>Post Title</h2>
+    <p class="meta">6th December 2013</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
   </div>
 
   </div><!-- end row -->
