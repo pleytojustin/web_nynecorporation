@@ -144,7 +144,7 @@
 
    <div class="col-lg-3 col-md-3 col-sm-3">
     <div class="team">
-        <img class="img-responsive" src="images/t2.jpg" alt="paul" />
+        <img class="img-responsive" src="images/t1.jpg" alt="paul" />
            <div class="roll">
             <div class="sn-links">
               <a href="#" title="#"><i class="fa fa-facebook-square"></i></a>
@@ -163,7 +163,7 @@
 
    <div class="col-lg-3 col-md-3 col-sm-3">
     <div class="team">
-        <img class="img-responsive" src="images/t3.jpg" alt="paul" />
+        <img class="img-responsive" src="images/t1.jpg" alt="paul" />
            <div class="roll">
             <div class="sn-links">
               <a href="#" title="#"><i class="fa fa-facebook-square"></i></a>
@@ -182,7 +182,7 @@
 
    <div class="col-lg-3 col-md-3 col-sm-3">
     <div class="team">
-        <img class="img-responsive" src="images/t4.jpg" alt="paul" />
+        <img class="img-responsive" src="images/t1.jpg" alt="paul" />
            <div class="roll">
             <div class="sn-links">
               <a href="#" title="#"><i class="fa fa-facebook-square"></i></a>
