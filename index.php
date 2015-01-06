@@ -205,7 +205,7 @@
   </div>
 
 <div class="row">
-  <div class="col-lg-3 col-md-3 col-sm-3">
+  <div class="col-lg-4 col-md-4 col-sm-4">
     <div class="team">
         <img class="img-responsive" src="images/t1.jpg" alt="paul" />
           <div class="roll">
