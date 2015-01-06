@@ -413,7 +413,7 @@
 
 
 
-<!-- ========================= RECENT EXHIBITIONS ========================== -->
+<!-- ========================= SERVICES========================== -->
 
 <div  id="posts">
 <div class="container">
@@ -460,41 +460,7 @@
 
   </div><!-- end row -->
 
-  <div class="row">
-<!-- item -->
-  <div class="item col-lg-4 col-md-4 col-sm-4">
-    <div class="item_wrap">
-      <img class="img-responsive" src="images/b4sm.jpg" alt="#">
-      <div class="select"><a href="images/b4.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
-    </div>
-    <h2>Post Title</h2>
-    <p class="meta">6th December 2013</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
-  </div>
 
-<!-- item -->
-  <div class="item col-lg-4 col-md-4 col-sm-4">
-    <div class="item_wrap">
-      <img class="img-responsive" src="images/b5sm.jpg" alt="#">
-      <div class="select"><a href="images/b5.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
-    </div>
-    <h2>Post Title</h2>
-    <p class="meta">6th December 2013</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
-  </div>
-
-<!-- item -->
-  <div class="item col-lg-4 col-md-4 col-sm-4">
-    <div class="item_wrap">
-      <img class="img-responsive" src="images/b6sm.jpg" alt="#">
-      <div class="select"><a href="images/b6.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
-    </div>
-    <h2>Post Title</h2>
-    <p class="meta">6th December 2013</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
-  </div>
-
-  </div><!-- end row -->
 </div><!-- END CONTAINER -->
 </div><!-- end posts -->
 <!-- ========================== PARRALAX ============================= -->
