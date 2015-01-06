@@ -1,20 +1,11 @@
 <?php
+$name = $_POST['name'];
+$email = $_POST['email'];
+$content = $_POST['content'];
 
-echo $_POST['name'];
-echo $_POST['email'];
-echo $_POST['content'];
-
-$open = fopen("file.txt", 'w+');
-
-if ($open) {
-	$content = "testing my tutorial";
-	if (fwrite($open, $content)) {
-		echo "good";
-	} else {
-		echo "cant write";
-	}
-} else {
-	echo "cant open";
-}
-
+$data = '' . $name . '' '' . $email . '' '' . $content . '';
+$cvsData = $name . "," . $email . "," . $content . "\n";
+$fp = fopen('test.csv', 'a');
+fwrite($fp, $data);
+fclose($fp);
 ?>

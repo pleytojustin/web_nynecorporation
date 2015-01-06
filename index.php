@@ -80,8 +80,8 @@
         <div class="item active">
            <div class="container">
             <div class="carousel-caption">
-              <h1>Example Heading One</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <h1>Located at Filinvest Alabang</h1>
+              <p>Nyne Corporation specialize in interior fit out of residential, commercial and office spaces.</p>
               <p><a class="btn btn-large btn-primary" href="#">See the video</a></p>
             </div>
           </div>
@@ -343,10 +343,6 @@
            <img class="img-responsive" src="images/Picture20_small.jpg" alt="#">
            <div class="select"><a href="images/Picture20.jpg" data-lightbox="image" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
       </div>
-
-
-
-
           <!-- item -->
      <div class="gal-item mix three">
            <img class="img-responsive" src="images/Picture21_small.jpg" alt="#">
