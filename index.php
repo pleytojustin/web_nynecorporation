@@ -116,7 +116,6 @@
   <div class="col-lg-10 col-lg-offset-1">
     <h1>About Us</h1>
     <p id="intro">We have been in the business for more than fifteen years. Starting as a construction supplier for projects/clients such as Maribeles Power Plant, Subic International Airport, Laguna Bel Air, Apo Cement, Pandacan Flood Control, Biata Flyover, Sta. Lucia Lakewood and Golden Meadow projects.</p>
-    <br>
     <p id="intro">In, recent years, we have made a shift towards finishing works, fit outs and design of residential, commercial and office spaces.</p>
 
   </div><!-- end 12 -->
