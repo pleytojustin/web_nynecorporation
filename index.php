@@ -204,7 +204,7 @@
   </div><!-- end 12 -->
 </div><!-- end row -->
 </div><!-- end container -->
-  <h1>Gallery</h1>
+  <h1 class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 text-center" >Gallery</h1>
 <div id="logos-wrapper">
     <ul class="portfolioFilter">
       <li class="filter btn" data-filter="all">Show All</li>
