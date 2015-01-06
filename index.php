@@ -122,7 +122,7 @@
 </div><!-- end row -->
 
 <div class="row">
-  <div class="col-lg-3 col-md-2 col-sm-2">
+  <div class="col-lg-2 col-md-3 col-sm-3">
     <div class="team">
         <img class="img-responsive" src="images/t1.jpg" alt="paul" />
 
@@ -134,7 +134,7 @@
   </div>
 
 <div class="row">
-  <div class="col-lg-3 col-md-2 col-sm-2">
+  <div class="col-lg-2 col-md-3 col-sm-3">
     <div class="team">
         <img class="img-responsive" src="images/t1.jpg" alt="paul" />
 
@@ -146,7 +146,7 @@
   </div>
 
 <div class="row">
-  <div class="col-lg-3 col-md-2 col-sm-2">
+  <div class="col-lg-2 col-md-3 col-sm-3">
     <div class="team">
         <img class="img-responsive" src="images/t1.jpg" alt="paul" />
 
@@ -157,7 +157,7 @@
 
   </div>
 <div class="row">
-  <div class="col-lg-3 col-md-2 col-sm-2">
+  <div class="col-lg-2 col-md-3 col-sm-3">
     <div class="team">
         <img class="img-responsive" src="images/t1.jpg" alt="paul" />
 
@@ -169,7 +169,7 @@
   </div>
 
 <div class="row">
-  <div class="col-lg-3 col-md-2 col-sm-2">
+  <div class="col-lg-2 col-md-3 col-sm-3">
     <div class="team">
         <img class="img-responsive" src="images/t1.jpg" alt="paul" />
 
