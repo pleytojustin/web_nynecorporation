@@ -190,9 +190,6 @@
 </div><!-- end about wrapp -->
 <!-- ============================= GALLERY ============================= -->
 
-<div class="container" id="gallery">
-
-
 <div  id="posts">
 <div class="container">
   <div class="row">
@@ -275,9 +272,7 @@
   </div><!-- end row -->
 </div><!-- END CONTAINER -->
 </div><!-- end posts -->
-
-
-
+<div class="container" id="gallery">
 <div class="row">
   <div id="about" class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 text-center">
   <h1>Portfolio</h1>
