@@ -188,6 +188,93 @@
 </div>
 </div><!-- end container -->
 </div><!-- end about wrapp -->
+
+
+
+<div  id="posts">
+<div class="container">
+  <div class="row">
+    <div class="col-lg-10 col-lg-offset-1 text-center">
+      <h1>Services</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+    </div><!-- end 12 -->
+  </div><!-- end row -->
+
+<div class="row">
+<!-- item -->
+  <div class="item col-lg-4 col-md-4 col-sm-4">
+    <div class="item_wrap">
+      <img class="img-responsive" src="images/b1sm.jpg" alt="#">
+      <div class="select"><a href="images/b1.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+    </div>
+    <h2>Post Title</h2>
+    <p class="meta">6th December 2013</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
+  </div>
+
+<!-- item -->
+  <div class="item col-lg-4 col-md-4 col-sm-4">
+    <div class="item_wrap">
+      <img class="img-responsive" src="images/b2sm.jpg" alt="#">
+      <div class="select"><a href="images/b2.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+    </div>
+    <h2>Post Title</h2>
+    <p class="meta">6th December 2013</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
+  </div>
+
+<!-- item -->
+  <div class="item col-lg-4 col-md-4 col-sm-4">
+    <div class="item_wrap">
+      <img class="img-responsive" src="images/b3sm.jpg" alt="#">
+      <div class="select"><a href="images/b3.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+    </div>
+    <h2>Post Title</h2>
+    <p class="meta">6th December 2013</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
+  </div>
+
+  </div><!-- end row -->
+
+  <div class="row">
+<!-- item -->
+  <div class="item col-lg-4 col-md-4 col-sm-4">
+    <div class="item_wrap">
+      <img class="img-responsive" src="images/b4sm.jpg" alt="#">
+      <div class="select"><a href="images/b4.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+    </div>
+    <h2>Post Title</h2>
+    <p class="meta">6th December 2013</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
+  </div>
+
+<!-- item -->
+  <div class="item col-lg-4 col-md-4 col-sm-4">
+    <div class="item_wrap">
+      <img class="img-responsive" src="images/b5sm.jpg" alt="#">
+      <div class="select"><a href="images/b5.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+    </div>
+    <h2>Post Title</h2>
+    <p class="meta">6th December 2013</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
+  </div>
+
+<!-- item -->
+  <div class="item col-lg-4 col-md-4 col-sm-4">
+    <div class="item_wrap">
+      <img class="img-responsive" src="images/b6sm.jpg" alt="#">
+      <div class="select"><a href="images/b6.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
+    </div>
+    <h2>Post Title</h2>
+    <p class="meta">6th December 2013</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
+  </div>
+
+  </div><!-- end row -->
+</div><!-- END CONTAINER -->
+</div><!-- end posts -->
+
+
 <!-- ============================= GALLERY ============================= -->
 
 <div class="container" id="gallery">
@@ -415,88 +502,6 @@
 
 <!-- ========================= RECENT EXHIBITIONS ========================== -->
 
-<div  id="posts">
-<div class="container">
-  <div class="row">
-    <div class="col-lg-10 col-lg-offset-1 text-center">
-      <h1>Recent Posts</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-    </div><!-- end 12 -->
-  </div><!-- end row -->
-
-<div class="row">
-<!-- item -->
-  <div class="item col-lg-4 col-md-4 col-sm-4">
-    <div class="item_wrap">
-      <img class="img-responsive" src="images/b1sm.jpg" alt="#">
-      <div class="select"><a href="images/b1.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
-    </div>
-    <h2>Post Title</h2>
-    <p class="meta">6th December 2013</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
-  </div>
-
-<!-- item -->
-  <div class="item col-lg-4 col-md-4 col-sm-4">
-    <div class="item_wrap">
-      <img class="img-responsive" src="images/b2sm.jpg" alt="#">
-      <div class="select"><a href="images/b2.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
-    </div>
-    <h2>Post Title</h2>
-    <p class="meta">6th December 2013</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
-  </div>
-
-<!-- item -->
-  <div class="item col-lg-4 col-md-4 col-sm-4">
-    <div class="item_wrap">
-      <img class="img-responsive" src="images/b3sm.jpg" alt="#">
-      <div class="select"><a href="images/b3.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
-    </div>
-    <h2>Post Title</h2>
-    <p class="meta">6th December 2013</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
-  </div>
-
-  </div><!-- end row -->
-
-  <div class="row">
-<!-- item -->
-  <div class="item col-lg-4 col-md-4 col-sm-4">
-    <div class="item_wrap">
-      <img class="img-responsive" src="images/b4sm.jpg" alt="#">
-      <div class="select"><a href="images/b4.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
-    </div>
-    <h2>Post Title</h2>
-    <p class="meta">6th December 2013</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
-  </div>
-
-<!-- item -->
-  <div class="item col-lg-4 col-md-4 col-sm-4">
-    <div class="item_wrap">
-      <img class="img-responsive" src="images/b5sm.jpg" alt="#">
-      <div class="select"><a href="images/b5.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
-    </div>
-    <h2>Post Title</h2>
-    <p class="meta">6th December 2013</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
-  </div>
-
-<!-- item -->
-  <div class="item col-lg-4 col-md-4 col-sm-4">
-    <div class="item_wrap">
-      <img class="img-responsive" src="images/b6sm.jpg" alt="#">
-      <div class="select"><a href="images/b6.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
-    </div>
-    <h2>Post Title</h2>
-    <p class="meta">6th December 2013</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="#" title="read more">Read more</a></p>
-  </div>
-
-  </div><!-- end row -->
-</div><!-- END CONTAINER -->
-</div><!-- end posts -->
 <!-- ========================== PARRALAX ============================= -->
 
 <div class="backgr hidden-xs">
