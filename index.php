@@ -188,8 +188,30 @@
 </div>
 </div><!-- end container -->
 </div><!-- end about wrapp -->
+<!-- ============================= GALLERY ============================= -->
 
+<div class="container" id="gallery">
+<div class="row">
+  <div id="about" class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 text-center">
+  <h1>Portfolio</h1>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </div><!-- end 12 -->
+</div><!-- end row -->
+</div><!-- end container -->
 
+<div id="logos-wrapper">
+    <ul class="portfolioFilter">
+      <li class="filter btn" data-filter="all">Show All</li>
+      <li class="filter btn" data-filter="studio">Studio</li>
+      <li class="filter btn" data-filter="one">One Bedroom Units</li>
+      <li class="filter btn" data-filter="two">Two Bedroom Units</li>
+      <li class="filter btn" data-filter="three">Three Bedroom Units</li>
+      <li class="filter btn" data-filter="commercial">Commercial Space</li>
+      <li class="filter btn" data-filter="office">Office</li>
+       <li class="filter btn" data-filter="residential">Residential</li>
+    </ul>
+
+  <div id="Grid">
 
 <div  id="posts">
 <div class="container">
@@ -273,33 +295,6 @@
   </div><!-- end row -->
 </div><!-- END CONTAINER -->
 </div><!-- end posts -->
-
-
-<!-- ============================= GALLERY ============================= -->
-
-<div class="container" id="gallery">
-<div class="row">
-  <div id="about" class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 text-center">
-  <h1>Portfolio</h1>
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  </div><!-- end 12 -->
-</div><!-- end row -->
-</div><!-- end container -->
-
-<div id="logos-wrapper">
-    <ul class="portfolioFilter">
-      <li class="filter btn" data-filter="all">Show All</li>
-      <li class="filter btn" data-filter="studio">Studio</li>
-      <li class="filter btn" data-filter="one">One Bedroom Units</li>
-      <li class="filter btn" data-filter="two">Two Bedroom Units</li>
-      <li class="filter btn" data-filter="three">Three Bedroom Units</li>
-      <li class="filter btn" data-filter="commercial">Commercial Space</li>
-      <li class="filter btn" data-filter="office">Office</li>
-       <li class="filter btn" data-filter="residential">Residential</li>
-    </ul>
-
-  <div id="Grid">
-
     <!-- item -->
       <div class="gal-item mix one">
            <img class="img-responsive" src="images/Picture1_small.jpg" alt="#">
