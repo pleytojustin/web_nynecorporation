@@ -125,16 +125,7 @@
   <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
         <img class="img-responsive" src="images/t1.jpg" alt="paul" />
-          <div class="roll">
-            <div class="sn-links">
-              <a href="#" title="#"><i class="fa fa-facebook-square"></i></a>
-              <a href="#" title="#"><i class="fa fa-twitter-square"></i></a>
-              <a href="#" title="#"><i class="fa fa-linkedin-square"></i></a><br>
-              <a href="#" title="#"><i class="fa fa-youtube-square"></i></a>
-              <a href="#" title="#"><i class="fa fa-flickr"></i></a>
-              <a href="#" title="#"><i class="fa fa-instagram"></i></a>
-            </div><!-- end sn links -->
-          </div><!-- end roll -->
+
     </div>
     <h2>Chris</h2>
     <p>
@@ -146,16 +137,7 @@
   <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
         <img class="img-responsive" src="images/t1.jpg" alt="paul" />
-          <div class="roll">
-            <div class="sn-links">
-              <a href="#" title="#"><i class="fa fa-facebook-square"></i></a>
-              <a href="#" title="#"><i class="fa fa-twitter-square"></i></a>
-              <a href="#" title="#"><i class="fa fa-linkedin-square"></i></a><br>
-              <a href="#" title="#"><i class="fa fa-youtube-square"></i></a>
-              <a href="#" title="#"><i class="fa fa-flickr"></i></a>
-              <a href="#" title="#"><i class="fa fa-instagram"></i></a>
-            </div><!-- end sn links -->
-          </div><!-- end roll -->
+
     </div>
     <h2>Chris</h2>
     <p>
@@ -167,16 +149,7 @@
   <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
         <img class="img-responsive" src="images/t1.jpg" alt="paul" />
-          <div class="roll">
-            <div class="sn-links">
-              <a href="#" title="#"><i class="fa fa-facebook-square"></i></a>
-              <a href="#" title="#"><i class="fa fa-twitter-square"></i></a>
-              <a href="#" title="#"><i class="fa fa-linkedin-square"></i></a><br>
-              <a href="#" title="#"><i class="fa fa-youtube-square"></i></a>
-              <a href="#" title="#"><i class="fa fa-flickr"></i></a>
-              <a href="#" title="#"><i class="fa fa-instagram"></i></a>
-            </div><!-- end sn links -->
-          </div><!-- end roll -->
+
     </div>
     <h2>Chris</h2>
     <p>
@@ -187,16 +160,7 @@
   <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
         <img class="img-responsive" src="images/t1.jpg" alt="paul" />
-          <div class="roll">
-            <div class="sn-links">
-              <a href="#" title="#"><i class="fa fa-facebook-square"></i></a>
-              <a href="#" title="#"><i class="fa fa-twitter-square"></i></a>
-              <a href="#" title="#"><i class="fa fa-linkedin-square"></i></a><br>
-              <a href="#" title="#"><i class="fa fa-youtube-square"></i></a>
-              <a href="#" title="#"><i class="fa fa-flickr"></i></a>
-              <a href="#" title="#"><i class="fa fa-instagram"></i></a>
-            </div><!-- end sn links -->
-          </div><!-- end roll -->
+
     </div>
     <h2>Chris</h2>
     <p>
