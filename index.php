@@ -517,7 +517,11 @@
   <div class="row">
     <div class="col-lg-10 col-lg-offset-1">
       <h1>Contact Us</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. Excepteur sint occaecat cupidatat</p>
+      <p>Unit 2310 Entrata Urban Complex  \n
+             Tower 1, 2609 Civic Drive Filinvest, \n
+             Alabang Muntinlupa City 1781 \n
+              T. (632) 585 5219 / 9586870</p>
+
     </div>
   </div><!-- end row -->
   <div class="row" >
