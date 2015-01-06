@@ -120,7 +120,7 @@
 
   </div><!-- end 12 -->
 </div><!-- end row -->
-
+<div style="padding-left: 100px">
 <div class="row">
   <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
@@ -219,7 +219,7 @@
 
   </div>
 </div><!-- end row -->
-
+</div>
 </div><!-- end container -->
 </div><!-- end about wrapp -->
 <!-- ============================= GALLERY ============================= -->
