@@ -117,7 +117,7 @@
   <div class="col-lg-10 col-lg-offset-1">
     <h1>About Us</h1>
     <p id="intro">We have been in the business for more than fifteen years. Starting as a construction supplier for projects/clients such as Maribeles Power Plant, Subic International Airport, Laguna Bel Air, Apo Cement, Pandacan Flood Control, Biata Flyover, Sta. Lucia Lakewood and Golden Meadow projects.</p>
-    <p id="intro">In, recent years, we have made a shift towards finishing works, fit outs and design of residential, commercial and office spaces.</p>
+    <p id="intro">In recent years, we have made a shift towards finishing works, fit outs and design of residential, commercial and office spaces.</p>
 
   </div><!-- end 12 -->
 </div><!-- end row -->
@@ -126,63 +126,68 @@
 <div style="padding-left: 100px">
   <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
-        <img class="img-responsive" src="images/trans.png" alt="paul" />
+   <!--      <img class="img-responsive" src="images/trans.png" alt="paul" /> -->
           <div class="roll">
 
           </div><!-- end roll -->
     </div>
-    <h2>Chris</h2>
-    <p>
+    <h3 >Marlo Magbuhos</h3>
+     <h4>On Site Operations</h4>
+ <!--    <p>
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-
+ -->
   </div>
 
    <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
-        <img class="img-responsive" src="images/trans.png" alt="paul" />
+     <!--    <img class="img-responsive" src="images/trans.png" alt="paul" /> -->
            <div class="roll">
 
           </div><!-- end roll -->
     </div>
-    <h2>Joanne</h2>
-    <p>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+    <h3>Ada Magbuhos</h3>
+     <h4>Design <br>and <br> Project Management</h4>
+ <!--    <p>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p> -->
   </div>
 
    <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
-        <img class="img-responsive" src="images/trans.png" alt="paul" />
+<!--         <img class="img-responsive" src="images/trans.png" alt="paul" /> -->
            <div class="roll">
 
           </div><!-- end roll -->
       </div>
-    <h2>Rob</h2>
-    <p>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+     <h3>Brian Pleyto</h3>
+     <h4>Sales and Marketing</h4>
+<!--     <p>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p> -->
   </div>
 
    <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
-        <img class="img-responsive" src="images/trans.png" alt="paul" />
+ <!--        <img class="img-responsive" src="images/trans.png" alt="paul" /> -->
            <div class="roll">
 
           </div><!-- end roll -->
       </div>
-    <h2>Noon</h2>
-    <p>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+    <h3>Engr. Cesar Pleyto</h3>
+       <h4>Planning</h4>
+   <!--  <p>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p> -->
   </div>
 
   <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
-        <img class="img-responsive" src="images/trans.png" alt="paul" />
+  <!--       <img class="img-responsive" src="images/trans.png" alt="paul" /> -->
           <div class="roll">
 
           </div><!-- end roll -->
     </div>
-    <h2>Chris</h2>
-    <p>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+    <h3>Atty. Dennis Manicad</h3>
+      <h4>Legal</h4>
+<!--     <p>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p> -->
 
   </div>
 </div><!-- end row -->
@@ -481,27 +486,27 @@
            <div class="container">
             <div class="carousel-caption">
            <!--    <img class="img-responsive" src="images/face1.jpg" alt="thumbnail" /> -->
-              <h2>Example Heading One</h2>
+          <!--     <h2>Example Heading One</h2>
               <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-            </div>
+            --> </div>
           </div>
         </div>
         <div class="item">
            <div class="container">
             <div class="carousel-caption">
     <!--         <img class="img-responsive" src="images/face2.jpg" alt="thumbnail" /> -->
-              <h2>Another example headline.</h2>
+          <!--     <h2>Another example headline.</h2>
               <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-            </div>
+            --> </div>
           </div>
         </div>
         <div class="item">
           <div class="container">
             <div class="carousel-caption">
         <!--   <img class="img-responsive" src="images/face3.jpg" alt="thumbnail" /> -->
-              <h2>One more for good measure.</h2>
+          <!--     <h2>One more for good measure.</h2>
               <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-            </div>
+             --></div>
           </div>
         </div>
       </div>
@@ -518,10 +523,11 @@
   <div class="row">
     <div class="col-lg-10 col-lg-offset-1">
       <h1>Contact Us</h1>
-      <p>Unit 2310 Entrata Urban Complex  <br>
+      <p3>Unit 2310 Entrata Urban Complex  <br>
              Tower 1, 2609 Civic Drive Filinvest, <br>
              Alabang Muntinlupa City 1781  <br>
-              T. (632) 585 5219 / 9586870</p>
+              T. (632) 9586870<br>
+              info@nynecorporation.com</p3>
 
     </div>
     <br>
