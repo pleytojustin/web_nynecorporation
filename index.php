@@ -81,7 +81,7 @@
         <div class="item active">
            <div class="container">
             <div class="carousel-caption">
-                <h1>Dedicated</h1>
+                <h1>Credible</h1>
               <p>Being in the construction industry since the mid-nineties, Nyne is committed to high quality of work with the use of skilled labourers and carefully sourced materials.</p>
 
            </div>
@@ -90,7 +90,7 @@
         <div class="item">
            <div class="container">
             <div class="carousel-caption">
-               <h1>Specialized</h1>
+               <h1>Creative</h1>
               <p>Located at Filinvest Alabang, Nyne Corporation specialize in interior fit out of residential, commercial and office spaces.</p>
 
           </div>
@@ -99,7 +99,7 @@
         <div class="item">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Driven</h1>
+              <h1>Specialized</h1>
               <p>Nyne upholds client’s brief and will complete projects in time and within budget.</p>
             </div>
           </div>
