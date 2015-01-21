@@ -10,6 +10,7 @@
 <link rel="dns-prefetch" href="//ajax.googleapis.com">
 -->
 
+
 <title>NyneCorporation</title>
 
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -125,7 +126,7 @@
 <div style="padding-left: 100px">
   <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
-        <img class="img-responsive" src="images/t1.jpg" alt="paul" />
+        <img class="img-responsive" src="images/trans.png" alt="paul" />
           <div class="roll">
 
           </div><!-- end roll -->
@@ -138,7 +139,7 @@
 
    <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
-        <img class="img-responsive" src="images/t1.jpg" alt="paul" />
+        <img class="img-responsive" src="images/trans.png" alt="paul" />
            <div class="roll">
 
           </div><!-- end roll -->
@@ -150,7 +151,7 @@
 
    <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
-        <img class="img-responsive" src="images/t1.jpg" alt="paul" />
+        <img class="img-responsive" src="images/trans.png" alt="paul" />
            <div class="roll">
 
           </div><!-- end roll -->
@@ -162,7 +163,7 @@
 
    <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
-        <img class="img-responsive" src="images/t1.jpg" alt="paul" />
+        <img class="img-responsive" src="images/trans.png" alt="paul" />
            <div class="roll">
 
           </div><!-- end roll -->
@@ -174,7 +175,7 @@
 
   <div class="col-lg-2 col-md-2 col-sm-2">
     <div class="team">
-        <img class="img-responsive" src="images/t1.jpg" alt="paul" />
+        <img class="img-responsive" src="images/trans.png" alt="paul" />
           <div class="roll">
 
           </div><!-- end roll -->
@@ -433,7 +434,7 @@
 <!-- item -->
   <div class="item col-lg-4 col-md-4 col-sm-4">
     <div class="item_wrap">
-      <img class="img-responsive" src="images/b1sm.jpg" alt="#">
+      <img class="img-responsive" src="images/trans.png" alt="#">
       <div class="select"><a href="images/b1.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
     </div>
     <h2>General Contractor</h2>
@@ -443,7 +444,7 @@
 <!-- item -->
   <div class="item col-lg-4 col-md-4 col-sm-4">
     <div class="item_wrap">
-      <img class="img-responsive" src="images/b2sm.jpg" alt="#">
+      <img class="img-responsive" src="images/trans.png" alt="#">
       <div class="select"><a href="images/b2.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
     </div>
     <h2>Project Management  </h2>
@@ -453,7 +454,7 @@
 <!-- item -->
   <div class="item col-lg-4 col-md-4 col-sm-4">
     <div class="item_wrap">
-      <img class="img-responsive" src="images/b3sm.jpg" alt="#">
+      <img class="img-responsive" src="images/trans.png" alt="#">
       <div class="select"><a href="images/b3.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
     </div>
     <h2>Interior Design</h2>
@@ -479,7 +480,7 @@
         <div class="item active">
            <div class="container">
             <div class="carousel-caption">
-              <img class="img-responsive" src="images/face1.jpg" alt="thumbnail" />
+           <!--    <img class="img-responsive" src="images/face1.jpg" alt="thumbnail" /> -->
               <h2>Example Heading One</h2>
               <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
             </div>
@@ -488,7 +489,7 @@
         <div class="item">
            <div class="container">
             <div class="carousel-caption">
-            <img class="img-responsive" src="images/face2.jpg" alt="thumbnail" />
+    <!--         <img class="img-responsive" src="images/face2.jpg" alt="thumbnail" /> -->
               <h2>Another example headline.</h2>
               <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
             </div>
@@ -497,7 +498,7 @@
         <div class="item">
           <div class="container">
             <div class="carousel-caption">
-          <img class="img-responsive" src="images/face3.jpg" alt="thumbnail" />
+        <!--   <img class="img-responsive" src="images/face3.jpg" alt="thumbnail" /> -->
               <h2>One more for good measure.</h2>
               <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
             </div>
@@ -523,18 +524,31 @@
               T. (632) 585 5219 / 9586870</p>
 
     </div>
+    <br>
+    <br>
   </div><!-- end row -->
   <div class="row" >
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <form action="mail.php" method="post">
-        <p><input class="form-control" name= "name" placeholder="Enter name"></p>
-        <p><input class="form-control" name="email" placeholder="Enter email"></p>
-        <p><textarea class="form-control" name="content" rows="6"></textarea></p>
-        <p><button type="submit" class="submit btn btn-db">SEND NOW</button></p>
-      </form>
+
     </div><!-- end 8 -->
   </div><!-- end row -->
 </div><!-- end container -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-10 col-lg-offset-1 text-center">
+      <h1>Directions</h1>
+   </div>
+  </div>
+  </div>
+  <div class="map">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1932.0598917052182!2d121.04233644907377!3d14.420257735793394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x878f75a3fda2ffaf!2sEntrata+Urban+Complex!5e0!3m2!1sen!2sph!4v1419677240994" width="600" height="450" frameborder="0" style="border:0"></iframe>
+</div>
+
+</div><!-- end contact -->
+
+
+
 <div class="swiper">
     <div class="swiper-container">
         <div class="swiper-wrapper">
@@ -556,20 +570,6 @@
         </div>
         </div><!-- end slider wrapper -->
     </div><!-- end swiper container -->
-<div class="container">
-  <div class="row">
-    <div class="col-lg-10 col-lg-offset-1 text-center">
-      <h1>Directions</h1>
-   </div>
-  </div>
-  </div>
-  <div class="map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1932.0598917052182!2d121.04233644907377!3d14.420257735793394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x878f75a3fda2ffaf!2sEntrata+Urban+Complex!5e0!3m2!1sen!2sph!4v1419677240994" width="600" height="450" frameborder="0" style="border:0"></iframe>
-</div>
-
-</div><!-- end contact -->
-
-
 <!-- ============================= FOOTER ============================== -->
 <footer>
   <div class="container">
@@ -585,6 +585,7 @@
 <!-- ========================== SWIPER GALLERY ============================= -->
 
 </div><!-- end swiper -->
+
 
 <script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>
