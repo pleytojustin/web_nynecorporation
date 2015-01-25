@@ -122,70 +122,7 @@
   </div><!-- end 12 -->
 </div><!-- end row -->
 
-<div class="row">
-<div style="padding-left: 100px">
-  <div class="col-lg-2 col-md-2 col-sm-2">
-    <div class="team">
-   <!--      <img class="img-responsive" src="images/trans.png" alt="paul" /> -->
-          <div class="roll">
 
-          </div><!-- end roll -->
-    </div>
-    <h3 >Marlo Magbuhos</h3>
-     <h4>On Site Operations</h4>
- <!--    <p>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
- -->
-  </div>
-
-   <div class="col-lg-2 col-md-2 col-sm-2">
-    <div class="team">
-     <!--    <img class="img-responsive" src="images/trans.png" alt="paul" /> -->
-           <div class="roll">
-
-          </div><!-- end roll -->
-    </div>
-    <h3>Ada Magbuhos</h3>
-     <h4>Design <br>and <br> Project Management</h4>
- <!--    <p>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p> -->
-  </div>
-
-   <div class="col-lg-2 col-md-2 col-sm-2">
-    <div class="team">
-<!--         <img class="img-responsive" src="images/trans.png" alt="paul" /> -->
-           <div class="roll">
-
-          </div><!-- end roll -->
-      </div>
-     <h3>Brian Pleyto</h3>
-     <h4>Sales and Marketing</h4>
-<!--     <p>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p> -->
-  </div>
-
-   <div class="col-lg-2 col-md-2 col-sm-2">
-    <div class="team">
- <!--        <img class="img-responsive" src="images/trans.png" alt="paul" /> -->
-           <div class="roll">
-
-          </div><!-- end roll -->
-      </div>
-    <h3>Engr. Cesar Pleyto</h3>
-       <h4>Planning</h4>
-   <!--  <p>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p> -->
-  </div>
-
-  <div class="col-lg-2 col-md-2 col-sm-2">
-    <div class="team">
-  <!--       <img class="img-responsive" src="images/trans.png" alt="paul" /> -->
-          <div class="roll">
-
-          </div><!-- end roll -->
-    </div>
-    <h3>Atty. Dennis Manicad</h3>
-      <h4>Legal</h4>
 <!--     <p>
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p> -->
 
