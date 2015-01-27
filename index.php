@@ -81,7 +81,7 @@
         <div class="item active">
            <div class="container">
             <div class="carousel-caption">
-                <h1>Credible</h1>
+                <h1>Construct</h1>
               <p>Being in the construction industry since the mid-nineties, Nyne is committed to high quality of work with the use of skilled labourers and carefully sourced materials.</p>
 
            </div>
@@ -90,7 +90,7 @@
         <div class="item">
            <div class="container">
             <div class="carousel-caption">
-               <h1>Creative</h1>
+               <h1>Plan</h1>
               <p>Located at Filinvest Alabang, Nyne Corporation specialize in interior fit out of residential, commercial and office spaces.</p>
 
           </div>
@@ -99,7 +99,7 @@
         <div class="item">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Specialized</h1>
+              <h1>Design</h1>
               <p>Nyne upholds client’s brief and will complete projects in time and within budget.</p>
             </div>
           </div>
@@ -376,7 +376,7 @@
 <!-- item -->
   <div class="item col-lg-4 col-md-4 col-sm-4">
     <div class="item_wrap">
-      <img class="img-responsive" src="images/trans.png" alt="#">
+   <!--    <img class="img-responsive" src="images/trans.png" alt="#"> -->
       <div class="select"><a href="images/b1.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
     </div>
     <h2>General Contractor</h2>
@@ -386,7 +386,7 @@
 <!-- item -->
   <div class="item col-lg-4 col-md-4 col-sm-4">
     <div class="item_wrap">
-      <img class="img-responsive" src="images/trans.png" alt="#">
+      <!-- <img class="img-responsive" src="images/trans.png" alt="#"> -->
       <div class="select"><a href="images/b2.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
     </div>
     <h2>Project Management  </h2>
@@ -396,11 +396,11 @@
 <!-- item -->
   <div class="item col-lg-4 col-md-4 col-sm-4">
     <div class="item_wrap">
-      <img class="img-responsive" src="images/trans.png" alt="#">
+ <!--      <img class="img-responsive" src="images/trans.png" alt="#"> -->
       <div class="select"><a href="images/b3.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
     </div>
     <h2>Interior Design</h2>
-    <p>Nyne has a pool of architects and interior designer who forms creative ideas based on a comprehensive client brief. We are constantly evolving to meet standards in design and construction.</p>
+    <p>Nyne has a pool of architects and interior designers who form creative ideas based on a comprehensive client brief. We are constantly evolving to meet standards in design and construction.</p>
   </div>
 
   </div><!-- end row -->
