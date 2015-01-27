@@ -390,7 +390,7 @@
       <div class="select"><a href="images/b2.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
     </div>
     <h2>Project Management  </h2>
-    <p>We secure permits, prepare accurate costing , detailed construction plan and efficient logistical plans to ensure that all the requirements for a certain project is met from start to finish.</p>
+    <p>We secure permits, prepare accurate costing, detailed construction plans and efficient logistical plans to ensure that all the requirements for a certain project is met from start to finish.</p>
   </div>
 
 <!-- item -->
