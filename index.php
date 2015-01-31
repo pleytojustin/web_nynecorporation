@@ -81,7 +81,7 @@
         <div class="item active">
            <div class="container">
             <div class="carousel-caption">
-                <h1>Construct</h1>
+                <h1>Constructt</h1>
               <p>Being in the construction industry since the mid-nineties, Nyne is committed to high quality of work with the use of skilled labourers and carefully sourced materials.</p>
 
            </div>
