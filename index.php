@@ -500,7 +500,6 @@
 <p> </p>
 </div>
 
-
 <div class="swiper">
     <div class="swiper-container">
         <div class="swiper-wrapper">
