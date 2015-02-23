@@ -513,7 +513,7 @@
         <div class="swiper-wrapper">
         <!--First Slide-->
         <div class="swiper-slide">
-          <img src="images/Picture3_small.jpg" alt="1" class="img-responsive" />
+          <img src="images/slide/f1.jpg" alt="1" class="img-responsive" />
         </div>
         <!--Second Slide-->
         <div class="swiper-slide">
