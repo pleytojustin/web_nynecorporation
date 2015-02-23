@@ -116,7 +116,11 @@
 <div class="row">
   <div class="col-lg-10 col-lg-offset-1">
     <h1>About Us</h1>
+<<<<<<< HEAD
     <p id="intro">We have been in the business for more than fifteen years. Starting as a construction supplier for development projects and clients such as Maribeles Power Plant, Subic International Airport, Laguna Bel Air, Apo Cement, Pandacan Flood Control, Biata Flyover, Sta. Lucia Lakewood and Golden Meadow projects.</p>
+=======
+
+>>>>>>> a7639fc7d1d4a1e409a0f261e55fe7086bb882b5
     <p id="intro">In recent years, we have made a shift towards finishing works, fit outs and design of residential, commercial and office spaces.</p>
 
   </div><!-- end 12 -->
@@ -137,9 +141,13 @@
 <div class="row">
   <div id="about" class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 text-center">
   <h1>Portfolio</h1>
+<<<<<<< HEAD
   <p>We have designed and constructed from clients from top residential condominiums such as SM Premier and Megaworld as well as residential homes from Alabang, Muntinlupa and Blueridge  Quezon City.</p>
   <p>Among our commercial spaces include skin clinics and spas in Timog Avenue and Araneta Center Quezon City.</p>
   <p>We also have designed and constructed an office space in Entrata Filinvest Alabang.</p>
+=======
+
+>>>>>>> a7639fc7d1d4a1e409a0f261e55fe7086bb882b5
 
 
 
@@ -163,10 +171,14 @@
   <div id="Grid">
 
     <!-- item -->
+<<<<<<< HEAD
 <!--       <div class="gal-item mix one">
            <img class="img-responsive" src="images/Picture1_small.jpg" alt="#">
            <div class="select"><a href="images/Picture1.jpg" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
       </div> -->
+=======
+
+>>>>>>> a7639fc7d1d4a1e409a0f261e55fe7086bb882b5
 
     <!-- item -->
      <div class="gal-item mix one">
@@ -192,11 +204,13 @@
       </div>
 
        <!-- item -->
+<<<<<<< HEAD
 <!--         <div class="gal-item mix one">
-           <img class="img-responsive" src="images/Picture6_small.jpg" alt="#">
-           <div class="select"><a href="images/Picture6.jpg" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
-      </div>
+=======
+        <div class="gal-item mix one">
+>>>>>>> a7639fc7d1d4a1e409a0f261e55fe7086bb882b5
               <!-- item -->
+<<<<<<< HEAD
  <!--      <div class="gal-item mix one">
            <img class="img-responsive" src="images/Picture7_small.jpg" alt="#">
            <div class="select"><a href="images/Picture7.jpg" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
@@ -207,6 +221,9 @@
            <img class="img-responsive" src="images/Picture8_small.jpg" alt="#">
            <div class="select"><a href="images/Picture8.jpg" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
       </div> -->
+=======
+
+>>>>>>> a7639fc7d1d4a1e409a0f261e55fe7086bb882b5
 
        <!-- item -->
         <div class="gal-item mix one">
@@ -221,10 +238,14 @@
       </div>
 
                    <!-- item -->
+<<<<<<< HEAD
 <!--         <div class="gal-item mix one">
            <img class="img-responsive" src="images/Picture11_small.jpg" alt="#">
            <div class="select"><a href="images/Picture11.jpg" data-lightbox="image"><i class="fa fa-search-plus"></i></a></div>
       </div> -->
+=======
+
+>>>>>>> a7639fc7d1d4a1e409a0f261e55fe7086bb882b5
 
                          <!-- item -->
         <div class="gal-item mix one">
@@ -328,10 +349,14 @@
       </div>
 
                          <!-- item -->
+<<<<<<< HEAD
  <!--        <div class="gal-item mix office">
            <img class="img-responsive" src="images/Picture29_small.jpg" alt="#">
            <div class="select"><a href="images/Picture29.jpg" data-lightbox="image"><i class="fa fa-search-plus"></i></a></div>
       </div> -->
+=======
+
+>>>>>>> a7639fc7d1d4a1e409a0f261e55fe7086bb882b5
 
                          <!-- item -->
         <div class="gal-item mix office">
