@@ -528,29 +528,7 @@
           <img src="images/f4.png" alt="4"  class="img-responsive" />
         </div>
 
-                <!--Fifth Slide-->
-        <div class="swiper-slide">
-          <img src="images/f5.png" alt="5"  class="img-responsive" />
-        </div>
 
-                <!--sixth Slide-->
-        <div class="swiper-slide">
-          <img src="images/f6.png" alt="6"  class="img-responsive" />
-        </div>
-
-                <!--seventh Slide-->
-        <div class="swiper-slide">
-          <img src="images/f7.png" alt="7"  class="img-responsive" />
-        </div>
-                <!--eigth Slide-->
-        <div class="swiper-slide">
-          <img src="images/f8.png" alt="8"  class="img-responsive" />
-        </div>
-                <!--nineth Slide-->
-        <div class="swiper-slide">
-          <img src="images/f9.png" alt="9"  class="img-responsive" />
-        </div>
-                <!--Fourth Slide-->
 
 
 
