@@ -15,7 +15,7 @@
 
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="fonts/font1.css" rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Lato|Crete+Round' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css/round.css' rel='stylesheet' type='text/css'>
 
 <style type="text/css" media="screen">
   .zoom {
