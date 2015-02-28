@@ -304,8 +304,20 @@
 
                    <!-- item -->
         <div class="gal-item mix studio">
-           <img class="img-responsive" src="images/Picture24_small.jpg" alt="#">
-           <div class="select"><a href="images/Picture24.jpg" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/studio1small.png" alt="#">
+           <div class="select"><a href="images/studio1.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+                      <!-- item -->
+        <div class="gal-item mix studio">
+           <img class="img-responsive" src="images/studio2small.png" alt="#">
+           <div class="select"><a href="images/studio2.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+                            <!-- item -->
+        <div class="gal-item mix studio">
+           <img class="img-responsive" src="images/studio3small.png" alt="#">
+           <div class="select"><a href="images/studio3.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
