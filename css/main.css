@@ -125,7 +125,7 @@ header {
   width: 100%; }
   header.sticky {
     position: fixed;
-    background-color: rgba(0, 0, 0, 0.53);
+    background-color: rgba(163, 163, 163, 0.53);
     height: 60px; }
   header h1#logo {
     width: 300px;
@@ -513,7 +513,7 @@ footer {
 .backgr {
   position: relative;
   width: 100%;
-  background: url(../images/new2.jpg) no-repeat fixed;
+  background: url(../images/bottombar2.png) no-repeat fixed;
   min-height: 450px; }
   .backgr h2 {
     color: #fff;
@@ -534,7 +534,7 @@ footer {
     background-size: auto; }
 
   .backgr {
-    background: url(../images/new7.jpg) no-repeat scroll;
+    background: url(../images/bottombar2small.png) no-repeat scroll;
     background-size: auto; } }
 @media screen and (min-width: 769px) and (max-width: 992px) {
   .team .roll .sn-links {
@@ -546,7 +546,7 @@ footer {
     font-size: 3.6em; }
 
   h2 {
-    font-size: 2.6em; }
+    font-size: 2.3em; }
 
   header h1#logo {
     width: 180%;

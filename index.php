@@ -362,11 +362,13 @@
 
                          <!-- item -->
         <div class="gal-item mix office">
-           <img class="img-responsive" src="images/Picture27_small.jpg" alt="#">
-           <div class="select"><a href="images/Picture27.jpg" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/of1small.png" alt="#">
+           <div class="select"><a href="images/of1.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
       </div>
 
+
                          <!-- item -->
+
         <div class="gal-item mix office">
            <img class="img-responsive" src="images/Picture28_small.jpg" alt="#">
            <div class="select"><a href="images/Picture28.jpg" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
