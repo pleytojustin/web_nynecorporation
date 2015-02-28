@@ -139,7 +139,7 @@
   <div id="about" class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 text-center">
   <h1>Portfolio</h1>
 
-  <p>We have designed and constructed from clients from top residential condominiums such as SM Premier and Megaworld as well as residential homes from Alabang, Muntinlupa and Blueridge  Quezon City.</p>
+  <p>We have designed and constructed for clients from top residential condominiums such as SM Premier and Megaworld as well as residential homes from Alabang, Muntinlupa and Blueridge  Quezon City.</p>
   <p>Among our commercial spaces include skin clinics and spas in Timog Avenue and Araneta Center Quezon City.</p>
   <p>We also have designed and constructed an office space in Entrata Filinvest Alabang.</p>
 
@@ -520,7 +520,7 @@
     <div class="col-lg-10 col-lg-offset-1">
       <h1>Contact Us</h1>
       <p3>Unit 2310 Entrata Urban Complex  <br>
-             Tower 1, 2609 Civic Drive Filinvest, <br>
+             Tower 1, 2609 Civic Drive Filinvest <br>
              Alabang Muntinlupa City 1781  <br>
               T. (632) 9586870<br>
        <!--     <href>   info@nynecorporation.com <href> </p3> -->
