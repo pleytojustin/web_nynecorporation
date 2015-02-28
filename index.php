@@ -575,65 +575,52 @@
           <img src="images/slide/f2.png" alt="2" class="img-responsive" />
         </div>
         <!--Third Slide-->
-        <div class="swiper-slide">
-          <img src="images/slide/f3.png" alt="3" class="img-responsive" />
-        </div>
         <!--Fourth Slide-->
         <div class="swiper-slide">
-          <img src="images/slide/f4.png" alt="4"  class="img-responsive" />
+          <img src="images/slide/f4.png" alt="3"  class="img-responsive" />
         </div>
 
 
                         <!--First Slide-->
         <div class="swiper-slide">
-          <img src="images/slide/s2.png" alt="5" class="img-responsive" />
+          <img src="images/slide/s2.png" alt="4" class="img-responsive" />
         </div>
 
                         <!--First Slide-->
         <div class="swiper-slide">
-          <img src="images/slide/s3.png" alt="6" class="img-responsive" />
+          <img src="images/slide/s3.png" alt="5" class="img-responsive" />
         </div>
 
                         <!--First Slide-->
         <div class="swiper-slide">
-          <img src="images/slide/s4.png" alt="7" class="img-responsive" />
+          <img src="images/slide/s4.png" alt="6" class="img-responsive" />
         </div>
 
                         <!--First Slide-->
         <div class="swiper-slide">
-          <img src="images/slide/s5.png" alt="8" class="img-responsive" />
+          <img src="images/slide/s5.png" alt="7" class="img-responsive" />
         </div>
 
                         <!--First Slide-->
         <div class="swiper-slide">
-          <img src="images/slide/s6.png" alt="9" class="img-responsive" />
+          <img src="images/slide/s6.png" alt="8" class="img-responsive" />
         </div>
 
                            <!--First Slide-->
         <div class="swiper-slide">
-          <img src="images/slide/s7.png" alt="10" class="img-responsive" />
+          <img src="images/slide/s7.png" alt="9" class="img-responsive" />
         </div>
 
 
                 <!--Second Slide-->
-        <div class="swiper-slide">
-          <img src="images/slide/f5.png" alt="11" class="img-responsive" />
-        </div>
-        <!--Third Slide-->
-        <div class="swiper-slide">
-          <img src="images/slide/f6.png" alt="12" class="img-responsive" />
-        </div>
-        <!--Fourth Slide-->
-        <div class="swiper-slide">
-          <img src="images/slide/f7.png" alt="13"  class="img-responsive" />
-        </div>
+
 
                  <div class="swiper-slide">
-          <img src="images/slide/f8.png" alt="14" class="img-responsive" />
+          <img src="images/slide/f8.png" alt="10" class="img-responsive" />
         </div>
         <!--Fourth Slide-->
         <div class="swiper-slide">
-          <img src="images/slide/f9.png" alt="15"  class="img-responsive" />
+          <img src="images/slide/f9.png" alt="11"  class="img-responsive" />
         </div>
 
 
