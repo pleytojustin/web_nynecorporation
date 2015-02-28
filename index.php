@@ -438,8 +438,8 @@
    <!--    <img class="img-responsive" src="images/trans.png" alt="#"> -->
       <div class="select"><a href="images/b1.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
     </div>
-    <h2>General Contractor</h2>
-    <p>Works fluidly with various engineers and construction suppliers in overseeing a project.</p>
+    <h2><center>General Contractor</center></h2>
+    <p><center>Works fluidly with various engineers and construction suppliers in overseeing a project.</center></p>
   </div>
 
 <!-- item -->
@@ -448,8 +448,8 @@
       <!-- <img class="img-responsive" src="images/trans.png" alt="#"> -->
       <div class="select"><a href="images/b2.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
     </div>
-    <h2>Project Management  </h2>
-    <p>We secure permits, prepare accurate costing, detailed construction plans and efficient logistical plans to ensure that all the requirements for a certain project is met from start to finish.</p>
+    <h2><center>Project Management </center> </h2>
+    <p><center>We secure permits, prepare accurate costing, detailed construction plans and efficient logistical plans to ensure that all the requirements for a certain project is met from start to finish.</center></p>
   </div>
 
 <!-- item -->
@@ -458,8 +458,8 @@
  <!--      <img class="img-responsive" src="images/trans.png" alt="#"> -->
       <div class="select"><a href="images/b3.jpg" data-lightbox="exhibition" title="pic details go here"><i class="fa fa-search-plus"></i></a></div>
     </div>
-    <h2>Interior Design</h2>
-    <p>Nyne has a pool of architects and interior designers who form creative ideas based on a comprehensive client brief. We are constantly evolving to meet standards in design and construction.</p>
+    <h2><center>Interior Design</center></h2>
+    <p><center>Nyne has a pool of architects and interior designers who form creative ideas based on a comprehensive client brief. We are constantly evolving to meet standards in design and construction.</center></p>
   </div>
 
   </div><!-- end row -->
