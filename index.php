@@ -233,9 +233,27 @@
 
                          <!-- item -->
         <div class="gal-item mix one">
-           <img class="img-responsive" src="images/Picture12_small.jpg" alt="#">
-           <div class="select"><a href="images/Picture12.jpg" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/one1small.png" alt="#">
+           <div class="select"><a href="images/one1.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
       </div>
+
+              <div class="gal-item mix one">
+           <img class="img-responsive" src="images/one2small.png" alt="#">
+           <div class="select"><a href="images/one2.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+                    <div class="gal-item mix one">
+           <img class="img-responsive" src="images/one3small.png" alt="#">
+           <div class="select"><a href="images/one3.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+
+                    <div class="gal-item mix one">
+           <img class="img-responsive" src="images/one4small.png" alt="#">
+           <div class="select"><a href="images/one4.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+
 
                          <!-- item -->
         <div class="gal-item mix one">
