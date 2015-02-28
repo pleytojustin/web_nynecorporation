@@ -293,8 +293,8 @@
 
                          <!-- item -->
         <div class="gal-item mix two">
-           <img class="img-responsive" src="images/Picture19_small.jpg" alt="#">
-           <div class="select"><a href="images/Picture19.jpg" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/two1small.png" alt="#">
+           <div class="select"><a href="images/two1.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
@@ -310,8 +310,13 @@
 
        <!-- item -->
         <div class="gal-item mix three">
-           <img class="img-responsive" src="images/Picture22_small.jpg" alt="#">
-           <div class="select"><a href="images/Picture22.jpg" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+           <img class="img-responsive" src="images/three1small.png" alt="#">
+           <div class="select"><a href="images/three1.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+              <div class="gal-item mix three">
+           <img class="img-responsive" src="images/three2small.png" alt="#">
+           <div class="select"><a href="images/three2.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
       </div>
 
              <!-- item -->
@@ -348,6 +353,11 @@
         <div class="gal-item mix commercial">
            <img class="img-responsive" src="images/Picture26_small.jpg" alt="#">
            <div class="select"><a href="images/Picture26.jpg" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+              <div class="gal-item mix commercial">
+           <img class="img-responsive" src="images/com1small.png" alt="#">
+           <div class="select"><a href="images/com1.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
       </div>
 
                          <!-- item -->
@@ -392,6 +402,16 @@
         <div class="gal-item mix residential">
            <img class="img-responsive" src="images/Picture33_small.jpg" alt="#">
            <div class="select"><a href="images/Picture33.jpg" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+              <div class="gal-item mix residential">
+           <img class="img-responsive" src="images/res1small.png" alt="#">
+           <div class="select"><a href="images/res1.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+                    <div class="gal-item mix residential">
+           <img class="img-responsive" src="images/res2small.png" alt="#">
+           <div class="select"><a href="images/res2.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
       </div>
 
   </div><!-- end grid -->
