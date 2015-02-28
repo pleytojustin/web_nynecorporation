@@ -547,8 +547,8 @@
 </div><!-- end swiper -->
 
 
-<!-- <script src="js/jquery.js"></script>
- --><script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
 <script src="js/hoverIntent.js"></script>
 <script src="js/holder.js"></script>
 <script src="js/scripts.js"></script>
