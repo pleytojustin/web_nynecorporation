@@ -52,7 +52,7 @@
       <nav id="navigation" class="navbar navbar-right" role="navigation">
       <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#home" title="Home">Justin</a></li>
+            <li class="active"><a href="#home" title="Home">Home</a></li>
             <li class="dropdown"><a href="#about-us" class="dropdown-toggle" data-toggle="dropdown">About </a></li>
             <li><a href="#gallery" title="#">Portfolio</a></li>
             <li><a href="#posts" title="Blog">Services</a></li>
