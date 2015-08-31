@@ -319,6 +319,43 @@
            <div class="select"><a href="images/three2.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
       </div>
 
+              <div class="gal-item mix three">
+           <img class="img-responsive" src="images/newpic1small.png" alt="#">
+           <div class="select"><a href="images/newpic1.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+                    <div class="gal-item mix three">
+           <img class="img-responsive" src="images/newpic2small.png" alt="#">
+           <div class="select"><a href="images/newpic2.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+                    <div class="gal-item mix three">
+           <img class="img-responsive" src="images/newpic3small.png" alt="#">
+           <div class="select"><a href="images/newpic3.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+                    <div class="gal-item mix three">
+           <img class="img-responsive" src="images/newpic4small.png" alt="#">
+           <div class="select"><a href="images/newpic4.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+                    <div class="gal-item mix three">
+           <img class="img-responsive" src="images/newpic5small.png" alt="#">
+           <div class="select"><a href="images/newpic5.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+                    <div class="gal-item mix three">
+           <img class="img-responsive" src="images/newpic6small.png" alt="#">
+           <div class="select"><a href="images/newpic6.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+                    <div class="gal-item mix three">
+           <img class="img-responsive" src="images/newpic7small.png" alt="#">
+           <div class="select"><a href="images/newpic7.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+
+
              <!-- item -->
         <div class="gal-item mix studio">
            <img class="img-responsive" src="images/Picture23_small.jpg" alt="#">
