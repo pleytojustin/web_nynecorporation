@@ -380,6 +380,43 @@
            <div class="select"><a href="images/studio3.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
       </div>
 
+
+        <div class="gal-item mix studio">
+           <img class="img-responsive" src="images/newimg1small.png" alt="#">
+           <div class="select"><a href="images/newimg1.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+              <div class="gal-item mix studio">
+           <img class="img-responsive" src="images/newimg2small.png" alt="#">
+           <div class="select"><a href="images/newimg2.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+              <div class="gal-item mix studio">
+           <img class="img-responsive" src="images/newimg3small.png" alt="#">
+           <div class="select"><a href="images/newimg3.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+              <div class="gal-item mix studio">
+           <img class="img-responsive" src="images/newimg4small.png" alt="#">
+           <div class="select"><a href="images/newimg4.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+              <div class="gal-item mix studio">
+           <img class="img-responsive" src="images/newimg5small.png" alt="#">
+           <div class="select"><a href="images/newimg5.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+              <div class="gal-item mix studio">
+           <img class="img-responsive" src="images/newimg6small.png" alt="#">
+           <div class="select"><a href="images/newimg6.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+              <div class="gal-item mix studio">
+           <img class="img-responsive" src="images/newimg7small.png" alt="#">
+           <div class="select"><a href="images/newimg7.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+
                          <!-- item -->
         <div class="gal-item mix commercial">
            <img class="img-responsive" src="images/Picture25_small.jpg" alt="#">
