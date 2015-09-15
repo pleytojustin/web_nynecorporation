@@ -98,7 +98,7 @@
         <div class="item">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Lloyd</h1>
+              <h1>Design</h1>
               <p>Nyne upholds client’s brief and will complete projects in time and within budget.</p>
             </div>
           </div>
