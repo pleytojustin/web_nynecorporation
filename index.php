@@ -27,7 +27,6 @@
 <link href="css/idangerous.swiper.css" rel="stylesheet">
 <link rel="shortcut icon" href="images/NyneLogoFINALTRANSPARENT.png"  />
 <link href="css/main.css"  rel="stylesheet">
-
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="js/html5shiv.js"></script>
