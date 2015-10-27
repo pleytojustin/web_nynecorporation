@@ -25,7 +25,7 @@
 <link rel="stylesheet" href="css/font-awesome.min.css">
 <link href="css/lightbox.css" rel="stylesheet">
 <link href="css/idangerous.swiper.css" rel="stylesheet">
-<link rel="shortcut icon" href="images/NyneLogoFINALTRANSPARENT.png"/>
+<link rel="shortcut icon" href="images/NyneLogoFINALTRANSPARENT.png"  />
 <link href="css/main.css"  rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
