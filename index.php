@@ -489,6 +489,34 @@
            <div class="select"><a href="images/res2.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
       </div>
 
+
+
+
+
+                    <div class="gal-item mix commercial">
+           <img class="img-responsive" src="images/n1small.png" alt="#">
+           <div class="select"><a href="images/n1.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+
+                          <div class="gal-item mix commercial">
+           <img class="img-responsive" src="images/n2small.png" alt="#">
+           <div class="select"><a href="images/n2.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+                    <div class="gal-item mix commercial">
+           <img class="img-responsive" src="images/n3small.png" alt="#">
+           <div class="select"><a href="images/n3.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+
+                          <div class="gal-item mix commercial">
+           <img class="img-responsive" src="images/n4small.png" alt="#">
+           <div class="select"><a href="images/n4.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+
+
   </div><!-- end grid -->
 </div><!-- end logos wrapper -->
 
