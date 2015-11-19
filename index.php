@@ -138,9 +138,9 @@
   <div id="about" class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 text-center">
   <h1>Portfolio</h1>
 
-  <p>We have designed and constructed for clients from top residential condominiums such as SM Premier and Megaworld as well as residential homes from Alabang, Muntinlupa and Blueridge  Quezon City.</p>
+  <p>We have designed and constructed for clients from top residential condominiums such as Ayala Land, SM Premier, Megaworld and Filinvest as well as residential homes from Alabang, Muntinlupa and Blueridge  Quezon City.</p>
   <p>Among our commercial spaces include skin clinics and spas in Timog Avenue and Araneta Center Quezon City.</p>
-  <p>We also have designed and constructed an office space in Entrata Filinvest Alabang.</p>
+  <p>We also designed and constructed office spaces in Entrata Filinvest Alabang.</p>
 
 
   </div><!-- end 12 -->
@@ -400,11 +400,11 @@
            <div class="select"><a href="images/newimg4.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
       </div>
 
-              <div class="gal-item mix studio">
+<!--               <div class="gal-item mix studio">
            <img class="img-responsive" src="images/newimg5small.png" alt="#">
            <div class="select"><a href="images/newimg5.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
       </div>
-
+ -->
               <div class="gal-item mix studio">
            <img class="img-responsive" src="images/newimg6small.png" alt="#">
            <div class="select"><a href="images/newimg6.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
@@ -597,7 +597,7 @@
              Alabang Muntinlupa City 1781  <br>
               T. (632) 9586870<br>
        <!--     <href>   info@nynecorporation.com <href> </p3> -->
-           <p3>info@nynecorporation.com</p3>
+           <p3>ada@nynecorporation.com</p3>
 
     </div>
     <br>
