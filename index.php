@@ -138,9 +138,9 @@
   <div id="about" class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 text-center">
   <h1>Portfolio</h1>
 
-  <p>We have designed and constructed for clients from top residential condominiums such as Ayala Land, SM Premier, Megaworld and Filinvest as well as residential homes from Alabang, Muntinlupa and Blueridge  Quezon City.</p>
-  <p>Among our commercial spaces include skin clinics and spas in Timog Avenue and Araneta Center Quezon City.</p>
-  <p>We also designed and constructed office spaces in Entrata Filinvest Alabang.</p>
+  <p id="intro">We have designed and constructed for clients from top residential condominiums such as Ayala Land, SM Premier, Megaworld and Filinvest as well as residential homes from Alabang, Muntinlupa and Blueridge  Quezon City.</p>
+  <p id="intro">Among our commercial spaces include skin clinics and spas in Timog Avenue and Araneta Center Quezon City.</p>
+  <p id="intro">We also designed and constructed office spaces in Entrata Filinvest Alabang.</p>
 
 
   </div><!-- end 12 -->
