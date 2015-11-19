@@ -138,7 +138,7 @@
   <div id="about" class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 text-center">
   <h1>Portfolio</h1>
 
-  <p id="intro">We have designed and constructed for clients from top residential condominiums such as Ayala Land, SM Premier, Megaworld and Filinvest as well as residential homes from Alabang, Muntinlupa and Blueridge  Quezon City.</p>
+  <p id="intro">We have designed and constructed for clients from top residential condominiums such as <br>Ayala Land, SM Premier, Megaworld and Filinvest as well as residential homes from Alabang, Muntinlupa and Blueridge  Quezon City.</p>
   <p id="intro">Among our commercial spaces include The Skin Specialist, Fashion and Beyond,<br> and Pitstop Motors Inc.</p>
   <p id="intro">We also designed and constructed office spaces in Entrata Filinvest Alabang.</p>
 
