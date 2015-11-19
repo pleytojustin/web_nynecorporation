@@ -493,10 +493,7 @@
 
 
 
-                    <div class="gal-item mix commercial">
-           <img class="img-responsive" src="images/n1s.png" alt="#">
-           <div class="select"><a href="images/n1.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
-      </div>
+
 
 
                           <div class="gal-item mix commercial">
@@ -516,6 +513,11 @@
       </div>
 
 
+
+                    <div class="gal-item mix commercial">
+           <img class="img-responsive" src="images/n1s.png" alt="#">
+           <div class="select"><a href="images/n1.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
 
   </div><!-- end grid -->
 </div><!-- end logos wrapper -->
