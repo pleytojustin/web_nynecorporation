@@ -519,6 +519,21 @@
            <div class="select"><a href="images/n1.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
       </div>
 
+
+
+
+                    <div class="gal-item mix one">
+           <img class="img-responsive" src="images/nn1s.png" alt="#">
+           <div class="select"><a href="images/nn1.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+                         <div class="gal-item mix one">
+           <img class="img-responsive" src="images/nn2s.png" alt="#">
+           <div class="select"><a href="images/nn2.png" data-lightbox="image" ><i class="fa fa-search-plus"></i></a></div>
+      </div>
+
+
+
   </div><!-- end grid -->
 </div><!-- end logos wrapper -->
 
