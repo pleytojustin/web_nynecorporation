@@ -10,7 +10,7 @@
 -->
 
 
-<title>NyneCorporation</title>
+<title>Test</title>
 
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="fonts/font1.css" rel='stylesheet' type='text/css'>
